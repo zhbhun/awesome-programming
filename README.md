@@ -1,1 +1,2 @@
-# awesome-programming
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
