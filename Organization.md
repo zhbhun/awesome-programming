@@ -24,6 +24,7 @@
 - [Qunar UED](http://ued.qunar.com/)
 - [豆瓣前端](https://github.com/douban-f2e)
 - [前端外刊评论](http://qianduan.guru/)
+- [前端之巅](https://zhuanlan.zhihu.com/qianduanzhidian)
 - [前端周刊](https://zhuanlan.zhihu.com/feweekly)
 
 # 后端
