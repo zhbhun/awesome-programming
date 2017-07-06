@@ -4,3 +4,4 @@
 - [VueConf 2017](http://vuejsdevelopers.com/2017/06/25/vue-conf-2017/?jsdojo_id=revue_vcf&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Anthony%20Gore)
 - [React Europe 2017 ](https://www.react-europe.org/#day-2017-May-17)
 - [ Fluent Conf 2017](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/grid/public/2017-06-21?view=list)
+- [腾讯Web前端大会 TFC2017](http://tfc.alloyteam.com/ppt.html)
