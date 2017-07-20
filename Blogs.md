@@ -1,2 +1,3 @@
 - [fouber/blog](https://github.com/fouber/blog)
 - https://ponyfoo.com/
+- http://jlongster.com/archive
