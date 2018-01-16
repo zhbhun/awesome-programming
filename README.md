@@ -1,3 +1,4 @@
+- [2017年最受欢迎的10个编程挑战网站](http://geek.csdn.net/news/detail/236954)
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 - [前端工程师做事的三重境界：我的进阶之路](https://zhuanlan.zhihu.com/p/26660510)
