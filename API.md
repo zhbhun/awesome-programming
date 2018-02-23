@@ -1,3 +1,6 @@
+# JSON
+- http://jsonplaceholder.typicode.com/
+
 # 二维码
 - http://goqr.me/api/
 - http://www.qr-code-generator.com
