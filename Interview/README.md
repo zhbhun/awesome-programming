@@ -34,6 +34,7 @@
 - [adam-s/js-interview-review](https://github.com/adam-s/js-interview-review) - The JS interview review. As I'm reviewing several resources I've bookmarked on JavaScript development, I'll share them here.
 - [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端开发面试题大收集，前端面试集锦.
 - [khan4019/front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions) - Help the front End community to rock interview.
+- [fex-team/interview-questions](https://github.com/fex-team/interview-questions) - FEX 面试问题.
 - [Jobeir/front-end-interview-preparation-guide](https://github.com/Jobeir/front-end-interview-preparation-guide) - The single source for preparing for a Frontend interview.
 - [jimuyouyou/node-interview-questions](https://github.com/jimuyouyou/node-interview-questions) - Node.js面试题，侧重后端应用与对Node核心的理解.
 - [jirengu/frontend-interview](https://github.com/jirengu/frontend-interview) - 前端笔试面试题题库
@@ -66,3 +67,7 @@
 - [怎样花两年时间去面试一个人？](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&amp;mid=2649967341&amp;idx=1&amp;sn=e23064e6a95385141b57449c98cc80e2&amp;chksm=beca3aeb89bdb3fda2e5075b986170cf189c9f76e9e1c9dcce5798ac815b3fc4761c529402a5&amp;mpshare=1&amp;scene=24&amp;srcid=07026xj7NPo0eI2IG7CCxYc2&amp;key=e0f557c9f11)
 - [过完年跳槽，要考虑哪些要素？](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651001469&idx=2&sn=2d2afca1948ec0b98a80607ed47fc4a2&chksm=bdbeea2e8ac96338fddf7a13ea264d09ce86ed2329f6da997b2226772c4450ccaa1d2383a39b&mpshare=1&scene=23&srcid=0306Pltsg33pNzkoC17EhP3x#rd)
 - [破解前端面试系列（3）：如何搞定纸上代码环节？](https://zhuanlan.zhihu.com/p/27172276)
+
+## 简历
+
+- [「推荐」前端新手如何做简历](https://zhuanlan.zhihu.com/p/23105699)

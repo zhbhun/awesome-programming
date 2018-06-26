@@ -1,11 +1,9 @@
 前端
 ========
 
-
 ## 什么选择前端？
 
 - [第七期《WebAssembly给前端带来了什么》](https://github.com/mynane/web-problem/issues/7)
-
 
 ## 参考文献
 
@@ -13,3 +11,41 @@
 - [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28written-by-a-Frontend-Engineer%29)
 - [前端工程师：鏖战阿里6面，终于拿到了offer！](https://link.zhihu.com/?target=https%3A//www.nowcoder.com/discuss/82243)
 - [阿里2018前端笔试题解答](https://zhuanlan.zhihu.com/p/29599545?)
+- [网易2018校招前端开发笔试题总结](https://zhuanlan.zhihu.com/p/28481374)
+- [前端工程师招聘笔试题库和前端工程师前景](https://zhuanlan.zhihu.com/p/31506928)
+- [2017深圳盒子支付前端面试题](https://zhuanlan.zhihu.com/p/29999858)
+- [【刷题系列1】前端笔试面试题](https://zhuanlan.zhihu.com/p/29135388)
+- [【刷题系列2】前端笔试面试题](https://zhuanlan.zhihu.com/p/29570558)
+- [2018秋招58同城笔试题分享（前端篇）](https://zhuanlan.zhihu.com/p/34340989)
+- [2016年前端最新笔试面试题第一弹](https://zhuanlan.zhihu.com/p/23842369)
+- [饿了么2018秋招笔试题前端试题](https://zhuanlan.zhihu.com/p/34852737)
+- [阿里2018前端笔试题解答](https://zhuanlan.zhihu.com/p/29599545)
+- [平时遇到的前端笔试题和面试题](https://zhuanlan.zhihu.com/p/35571200)
+- [前端笔试 - 收藏集 - 掘金](https://zhuanlan.zhihu.com/p/27198275)
+- [前端面试之js相关问题（一）](https://zhuanlan.zhihu.com/p/22109292)
+- [记一次前端面试](https://zhuanlan.zhihu.com/p/35176397)
+- [为何前端面试官都喜欢问闭包？](https://www.zhihu.com/question/30861304/answer/49744811)
+- [前端面试指南](https://zhuanlan.zhihu.com/p/25859524)
+- [合格前端系列第九弹-前端面试那些事](https://zhuanlan.zhihu.com/p/32911022)
+- [写给前端面试者](https://zhuanlan.zhihu.com/p/32978197)
+- [精读《最佳前端面试题》及面试官技巧](https://zhuanlan.zhihu.com/p/28333260) / [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28written-by-a-Frontend-Engineer%29)
+- [前端面试知识点总结](https://zhuanlan.zhihu.com/p/22606894)
+- [面试小结--前端面试的几个雷点](https://zhuanlan.zhihu.com/p/35529374)
+- [饥人谷2018前端面试押题（讲义）](https://zhuanlan.zhihu.com/p/34536462)
+- [Web前端面试题目及答案汇总](https://zhuanlan.zhihu.com/p/30981484)
+- [火爆：2017前端面试最新整理](https://zhuanlan.zhihu.com/p/30267442)
+- [前端面试题（css篇）](https://zhuanlan.zhihu.com/p/25355029)
+- [我遇到的前端面试题2017](https://zhuanlan.zhihu.com/p/29445723)
+- [饥人谷2018前端面试直播（附面经）](https://zhuanlan.zhihu.com/p/34868480)
+- [[阅 #1] 推荐一份前端面试题给你](https://zhuanlan.zhihu.com/p/28784784)
+- [2017年第一波JavaScript前端面试题](https://zhuanlan.zhihu.com/p/25424194)
+- [前端面试通关指南](https://zhuanlan.zhihu.com/p/24624601)
+- [Web前端面试指导(五)：掌握面试技巧，让面试变得轻松](https://zhuanlan.zhihu.com/p/25415829)
+- [前端面试题之Web缓存](https://zhuanlan.zhihu.com/p/33458290)
+- [前端面试&滴滴实习心得](https://zhuanlan.zhihu.com/p/30034905)
+- [2018年各大互联网前端面试题三（阿里）](https://zhuanlan.zhihu.com/p/34987878)
+- [前端面试汇总](https://zhuanlan.zhihu.com/p/31664413)
+- [常见的web前端面试题及答案整理](https://zhuanlan.zhihu.com/p/22552325)
+- [前端面试常见问题，以及蘑菇街、网易、知乎、美团前端面经](https://zhuanlan.zhihu.com/p/29722662)
+- [2018最新web前端面试题](https://zhuanlan.zhihu.com/p/32824125)
+- [Web前端面试题总结](https://zhuanlan.zhihu.com/p/35090323)

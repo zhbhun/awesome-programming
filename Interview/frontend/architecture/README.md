@@ -139,9 +139,9 @@
     - [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
     - [The State of Front-End Tooling – 2015](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
 
-> [这些年，web前端都经历了什么](这些年，web前端都经历了什么)
-
-> [从前端到全端：JavaScript逆袭之路](https://techblog.toutiao.com/2018/05/25/cong-qian-duan-dao-quan-duan-javascriptni-xi-zhi-lu/)
+- [这些年，web前端都经历了什么](这些年，web前端都经历了什么)
+- [从前端到全端：JavaScript逆袭之路](https://techblog.toutiao.com/2018/05/25/cong-qian-duan-dao-quan-duan-javascriptni-xi-zhi-lu/)
+- [360前端大神“十年踪迹”：写给想成为前端工程师的你](https://zhuanlan.zhihu.com/p/28354908)
 
 ## 技术选型
 
@@ -176,3 +176,7 @@ react 存在的一些问题
 
 1. RN：有做首屏事件的统计，对于一些严重的错误导致的闪退会上报给腾讯的 bugly，这个主要原生实现的。
 2. H5：如果是 NodeJS 服务端渲染，基本是服务端打错误日志，然后运维那边搭建了 Elasticsearch，通过 Kibana 分析日志页面加载的服务端问题（之前通过这个平台解决了几个难复现的 bug）。对于 SPA 等纯前端的渲染以及其他前端错误导致页面不渲染和不响应的问题，目前还没有实现监控，我想主要思路也就是监听错误事件，然后上报个日志服务器。
+
+## 参考文献
+
+- [美团点评前端技术体系的思考与实践](https://en.100offer.com/blog/posts/286)
