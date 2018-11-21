@@ -27,3 +27,7 @@
     - [art-of-readme](https://github.com/noffle/art-of-readme)
     - [About READMEs](https://help.github.com/articles/about-readmes/)
     - [README Wikipedia](https://en.wikipedia.org/wiki/README)
+
+## 规范
+
+- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)

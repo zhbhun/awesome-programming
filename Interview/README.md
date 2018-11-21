@@ -67,6 +67,12 @@
 - [怎样花两年时间去面试一个人？](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&amp;mid=2649967341&amp;idx=1&amp;sn=e23064e6a95385141b57449c98cc80e2&amp;chksm=beca3aeb89bdb3fda2e5075b986170cf189c9f76e9e1c9dcce5798ac815b3fc4761c529402a5&amp;mpshare=1&amp;scene=24&amp;srcid=07026xj7NPo0eI2IG7CCxYc2&amp;key=e0f557c9f11)
 - [过完年跳槽，要考虑哪些要素？](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651001469&idx=2&sn=2d2afca1948ec0b98a80607ed47fc4a2&chksm=bdbeea2e8ac96338fddf7a13ea264d09ce86ed2329f6da997b2226772c4450ccaa1d2383a39b&mpshare=1&scene=23&srcid=0306Pltsg33pNzkoC17EhP3x#rd)
 - [破解前端面试系列（3）：如何搞定纸上代码环节？](https://zhuanlan.zhihu.com/p/27172276)
+- 2018年各大互联网前端面试题
+
+    - [2018年各大互联网前端面试题二（滴滴打车）](https://cloud.tencent.com/developer/article/1141314)
+    - [2018年各大互联网前端面试题三（阿里）](https://cloud.tencent.com/developer/article/1140258)
+    - [2018年各大互联网前端面试题四（美团）](https://cloud.tencent.com/developer/article/1140264)
+    - [2018年各大互联网前端面试题五（今日头条）](https://cloud.tencent.com/developer/article/1140218)
 
 ## 简历
 
