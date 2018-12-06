@@ -1,17 +1,22 @@
-- 美柚调试 App，方便打开 H5 和 RN 页面
-- 编写 RN 协议单元测试
-- 开发 RN 调试组件
+# 想法&创意
 
----
+## 工作
 
-- 开发文档
-- 番茄闹钟
-
-    - 支持项目子任务
-
-- react + 旅行青蛙
 - 美柚
 
-    - 客户端 H5 开发工具
+    - 美柚调试 App，方便打开 H5 和 RN 页面
+    - 编写 RN 协议单元测试
+    - 开发 RN 调试组件
+    - 扫一扫实现协议模拟
 
-        - 扫一扫实现协议模拟
+## 学习
+
+- 旅行青蛙/一个柚子：react，vue，Angular，pixi，游戏引擎等
+- RSS 客户端：RN，PWA，小程序，快应用等
+- React 组件库：
+
+    - https://www.npmjs.com/org/rwc
+    - https://www.npmjs.com/org/rmc
+
+- Web 组件库：https://www.npmjs.com/org/webcs
+- 开发文档聚合器
