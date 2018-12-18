@@ -20,3 +20,5 @@
 
 - Web 组件库：https://www.npmjs.com/org/webcs
 - 开发文档聚合器
+- Google 翻译
+- 代理工具：NodeJS + Electron + Whistler
