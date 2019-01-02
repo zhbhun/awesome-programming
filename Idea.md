@@ -23,3 +23,6 @@
 - Google 翻译
 - 代理工具：NodeJS + Electron + Whistler
 - 同构应用开发框架：jQuery，React，Vue，Angular
+- easepack 更名为 [webpack-script](https://www.npmjs.com/org/webpack-script)
+- Git 规范训练项目
+- 编程版的即刻

@@ -3,6 +3,7 @@
 
 - https://mta.qq.com/mta/data/device
 - https://data.apteligent.com/research
+- http://gs.statcounter.com/
 
 ## 手机
 

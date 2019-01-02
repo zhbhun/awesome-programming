@@ -30,6 +30,7 @@
 - [前端之巅](https://zhuanlan.zhihu.com/qianduanzhidian)
 - [前端周刊](https://zhuanlan.zhihu.com/feweekly)
 - [今日头条](https://techblog.toutiao.com/)
+- [去哪儿网大前端技术中心](https://ymfe.org/)
 
 # 后端
 - [Ali Node](http://alinode.aliyun.com/blog)
