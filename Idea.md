@@ -26,3 +26,15 @@
 - easepack 更名为 [webpack-script](https://www.npmjs.com/org/webpack-script)
 - Git 规范训练项目
 - 编程版的即刻
+- 使用不同技术开发一个滴答清单
+- 整合 Docusaurus 和 JSDOC
+- LiveBOS 开源版：Electron + React
+- 整理一批 redux 开发工具的使用博客
+- Github Reader
+- 利用 https://www.devicespecifications.com/ 开发一个工具应用
+- 试用 Dropbox 开发一套效率工具
+- 手机参数 App
+- 小程序应用推荐
+
+    - 豌豆荚设计奖
+    - ...

@@ -6,6 +6,7 @@
 - https://apilist.fun/
 - [50 Most Useful APIs for Developers](https://www.computersciencezone.org/50-most-useful-apis-for-developers/)
 - https://github.com/abhishekbanthia/Public-APIs
+- https://randomuser.me/
 
 ## JSON
 
