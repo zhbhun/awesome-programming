@@ -40,3 +40,7 @@ ps：大部分的程序猿都没有想过软件设计的美感。
 - [professional-programming](https://github.com/charlax/professional-programming)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+
+---
+
+- [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
