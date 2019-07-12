@@ -22,6 +22,10 @@
 - http://goqr.me/
 - https://www.the-qrcode-generator.com/
 
+## 头像
+
+- https://pravatar.cc/
+
 ## Translation
 
 - [Google Translation](https://cloud.google.com/translate/)
