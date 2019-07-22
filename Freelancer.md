@@ -30,6 +30,7 @@
     - [guru](https://www.guru.com/)
     - [peopleperhour](https://www.peopleperhour.com/?v=2)
     - [fiverr](https://www.fiverr.com/)
+    - [itch.io](https://itch.io/): itch.io is a simple way to find and share indie games online for free.
 
 # 参考
 - [2017年最受欢迎的10个编程挑战网站](http://geek.csdn.net/news/detail/236954)
