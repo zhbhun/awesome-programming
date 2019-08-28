@@ -58,6 +58,18 @@
 
 - [第二届](https://vue.w3ctech.com/)
 
+### GMTC
+
+- [2019](https://gmtc.infoq.cn/2019/beijing/)
+- [2018](https://gmtc.infoq.cn/2018/beijing/)
+- [2017](http://gmtc2017.geekbang.org/)
+- [GMTC](https://github.com/izhangxb/GMTC/tree/master/%E5%85%A8%E7%90%83%E7%A7%BB%E5%8A%A8%E6%8A%80%E6%9C%AF%E5%A4%A7%E4%BC%9AGMTC%202016%20PPT)
+
+### [JAVASCRIPT MN](https://javascriptmn.com/)
+
+- [Twitter](https://twitter.com/JavaScriptMN/)
+- [YouTube](https://www.youtube.com/channel/UC4DA_d8mD-14ZSBvIb1jmXg)
+
 ## 综合
 
 ### 饿了么技术沙龙
@@ -76,8 +88,6 @@ ArchSummit，全球架构师峰会，是 InfoQ 中国团队推出的重点面向
 - [2015](https://bj2015.archsummit.com/)
 - [2014](https://bj2014.archsummit.com/)
 
-### TODO
-
 ### [百度技术沙龙](https://infoq.cn/zones/baidu-salon/)
 
 ...
@@ -94,3 +104,7 @@ ArchSummit，全球架构师峰会，是 InfoQ 中国团队推出的重点面向
 - [React Europe 2017 ](https://www.react-europe.org/#day-2017-May-17)
 - [ Fluent Conf 2017](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/grid/public/2017-06-21?view=list)
 - [腾讯Web前端大会 TFC2017](http://tfc.alloyteam.com/ppt.html)
+
+### TODO
+
+- https://www.meetup.com/
