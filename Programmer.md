@@ -1,6 +1,7 @@
 程序员人生
 ========
 
+- *[What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)*
 
 ## 前端
 
@@ -44,3 +45,10 @@ ps：大部分的程序猿都没有想过软件设计的美感。
 ---
 
 - [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+
+---
+
+## 知名开发者
+
+- [Christer Kaitila](https://mcfunkypants.com/): Game Developer
+- [Andrzej Mazur](https://end3r.com/): HTML5 Game Developer | JavaScript Programmer
