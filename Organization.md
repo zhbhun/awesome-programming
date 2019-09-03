@@ -31,9 +31,10 @@
 - [前端周刊](https://zhuanlan.zhihu.com/feweekly)
 - [今日头条](https://techblog.toutiao.com/)
 - [去哪儿网大前端技术中心](https://ymfe.org/)
+- [weekly](https://github.com/dt-fe/weekly)
 
 # 后端
-- [Ali Node](http://alinode.aliyun.com/blog)
+- [前端精读周刊](http://alinode.aliyun.com/blog)
 
 # 翻译
 - [gold-miner](https://github.com/xitu/gold-miner/) - 掘金翻译计划，翻译掘金上优质的英文文章
