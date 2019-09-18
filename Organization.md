@@ -32,6 +32,7 @@
 - [今日头条](https://techblog.toutiao.com/)
 - [去哪儿网大前端技术中心](https://ymfe.org/)
 - [weekly](https://github.com/dt-fe/weekly)
+- [30-seconds](https://github.com/30-seconds)
 
 # 后端
 - [前端精读周刊](http://alinode.aliyun.com/blog)
