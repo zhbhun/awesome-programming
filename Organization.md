@@ -33,6 +33,7 @@
 - [去哪儿网大前端技术中心](https://ymfe.org/)
 - [weekly](https://github.com/dt-fe/weekly)
 - [30-seconds](https://github.com/30-seconds)
+- [JavaScript Open Source Award](https://osawards.com/javascript/)
 
 # 后端
 - [前端精读周刊](http://alinode.aliyun.com/blog)
