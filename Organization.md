@@ -2,6 +2,7 @@
 ========
 
 - [国内UED大全](http://www.cnblogs.com/shiqudou/p/3902385.html)
+- [Open Source Awards](https://osawards.com)
 
 # 前端
 - [Frontend Masters](https://github.com/FrontendMasters)
@@ -34,6 +35,7 @@
 - [weekly](https://github.com/dt-fe/weekly)
 - [30-seconds](https://github.com/30-seconds)
 - [JavaScript Open Source Award](https://osawards.com/javascript/)
+- [React Open Source Awards](https://osawards.com/react/)
 
 # 后端
 - [前端精读周刊](http://alinode.aliyun.com/blog)
