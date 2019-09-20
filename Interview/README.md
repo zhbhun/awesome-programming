@@ -75,6 +75,8 @@
     - [2018年各大互联网前端面试题四（美团）](https://cloud.tencent.com/developer/article/1140264)
     - [2018年各大互联网前端面试题五（今日头条）](https://cloud.tencent.com/developer/article/1140218)
 
+- [The Interview Study Guide For Software Engineers](https://dev.to/seattledataguy/the-interview-study-guide-for-software-engineers-764)
+
 ## 简历
 
 - [「推荐」前端新手如何做简历](https://zhuanlan.zhihu.com/p/23105699)
