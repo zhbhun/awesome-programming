@@ -5,6 +5,8 @@
 - [Open Source Awards](https://osawards.com)
 
 # 前端
+
+- [web.dev](https://web.dev)
 - [Frontend Masters](https://github.com/FrontendMasters)
 - [淘宝前端团队](http://taobaofed.org)
 - [天猫前端](https://tmallfe.github.io/)
