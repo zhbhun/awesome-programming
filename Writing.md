@@ -31,3 +31,17 @@
 ## 规范
 
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+
+## 是什么、为什么、怎么做
+
+- [5W2H分析法](https://baike.baidu.com/item/5W2H分析法/8111597) / [Project Management 101: The 5 Ws (and 1 H) that should be asked of every project!](https://www.workfront.com/blog/project-management-101-the-5-ws-and-1-h-that-should-be-asked-of-every-project)
+- [是什么？为什么？怎么样？](http://www.china.com.cn/xxsb/txt/2004-05/25/content_5572117.htm) / [Ask What, Why, and How to gain Purpose and Perspective](https://medium.com/@Bar_Code/purpose-and-perspective-through-what-why-and-how-e158bf63e764)
+
+- [关于消息推送的思考：是什么？为什么？怎么做？](https://www.yunyingpai.com/app/459645.html)
+
+---
+
+- [程序员怎样才能写出一篇好的博客或者技术文章？](https://www.zhihu.com/question/40716838)
+- [如何才能写出一篇好的技术文章](https://www.jianshu.com/p/06a50b44a776)
+- [分享下写技术文章的思路](https://blog.fundebug.com/2018/09/29/how-to-write-technology-blog/)
+- [程序员怎样才能写出一篇好的博客或者技术文章](https://cloud.tencent.com/developer/article/1191547)
