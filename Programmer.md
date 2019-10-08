@@ -8,6 +8,10 @@
 - [前端的焦虑，你想过30岁以后的前端路怎么走吗？](https://juejin.im/post/5b124fdd5188257d6c0465da)
 - [我在淘宝做前端的这三年 — 第一年](https://zhuanlan.zhihu.com/p/55272391)
 - [张鑫旭：前端专业方向的尽头](https://mp.weixin.qq.com/s/eNJSjm0dz5R6V-2I8ZsgDg)
+- [技术路线：前端开发已进入深水区](https://www.yuque.com/sxc/front/kvokg4)
+
+    - [精读《前端深水区》](https://github.com/dt-fe/weekly/blob/v2/119.精读《前端深水区》.md)
+    - [前端开发深水区讨论](https://github.com/dt-fe/weekly/issues/193)
 
 ## 新手
 
