@@ -41,3 +41,25 @@
 
 - OCR + 账单
 - OCR App
+
+
+---
+
+- [AutoPiano](https://github.com/WarpPrism/AutoPiano) - 自由钢琴（AutoPiano）是利用HTML5技术开发的在线钢琴应用，致力于为钢琴爱好者、音乐爱好者以及其他所有的创造者提供一个优雅、简洁的平台，在学习工作之余可以享受钢琴、音乐的美好。就类似于多年前Flash开发的钢琴游戏，自由钢琴只是换了H5的技术，同时支持了钢琴曲的自动播放功能。
+
+    开发一个移动端 H5 版本的自由钢琴
+
+- [logoly](https://www.logoly.pro/) - A Pornhub Flavour Logo Generator
+
+    头像生成工具
+
+- [seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet) - Play couplet with seq2seq model. 用深度学习对对联。
+
+    深度学习的更多用法
+
+- [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。
+
+    做一个 App 用来了解各个城市的购房攻略和相关的消息订阅
+
+- [themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp)
+- [sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif 
