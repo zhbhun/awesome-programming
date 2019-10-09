@@ -2,6 +2,7 @@
 ========
 
 - *[What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)*
+- [怎么在编程中找到快乐，并得到持久的动力？](https://www.zhihu.com/question/339068307/answer/849583723)
 
 ## 前端
 
