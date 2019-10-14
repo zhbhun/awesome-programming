@@ -60,7 +60,11 @@
 
 ### GMTC
 
-- [2019](https://gmtc.infoq.cn/2019/beijing/)
+- 2019
+
+    - [2019 深圳站](https://gmtc.infoq.cn/2019/shenzhen/)
+    - [2019 北京站](https://gmtc.infoq.cn/2019/beijing/)
+
 - [2018](https://gmtc.infoq.cn/2018/beijing/)
 - [2017](http://gmtc2017.geekbang.org/)
 - [GMTC](https://github.com/izhangxb/GMTC/tree/master/%E5%85%A8%E7%90%83%E7%A7%BB%E5%8A%A8%E6%8A%80%E6%9C%AF%E5%A4%A7%E4%BC%9AGMTC%202016%20PPT)
