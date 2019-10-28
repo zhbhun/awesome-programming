@@ -1,5 +1,6 @@
 # 开源项目
 
+- [opensource.guide](https://github.com/github/opensource.guide)
 
 ## 如何阅读项目源码
 
