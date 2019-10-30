@@ -10,3 +10,7 @@
 - https://github.com/amilajack/reading
 - https://github.com/danistefanovic/build-your-own-x
 - https://github.com/Kristories/awesome-guidelines
+
+---
+
+[machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 
