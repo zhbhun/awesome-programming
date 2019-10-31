@@ -40,6 +40,7 @@
 - [jimuyouyou/node-interview-questions](https://github.com/jimuyouyou/node-interview-questions) - Node.js面试题，侧重后端应用与对Node核心的理解.
 - [jirengu/frontend-interview](https://github.com/jirengu/frontend-interview) - 前端笔试面试题题库
 - [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews)
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 
 ### 后端
 
