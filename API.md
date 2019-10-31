@@ -34,3 +34,7 @@
 - [Use the Google Translate API for Free](https://ctrlq.org/code/19909-google-translate-api)
 - [google-translate-api](https://github.com/matheuss/google-translate-api)
 - [Is it possible to access to google translate api for free? ](https://stackoverflow.com/questions/37667671/is-it-possible-to-access-to-google-translate-api-for-free)
+
+---
+
+- [json-api](https://github.com/json-api/json-api)
