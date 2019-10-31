@@ -2,6 +2,7 @@
 ========
 
 - [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
+- [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)
 - [fouber/blog](https://github.com/fouber/blog)
 - https://ponyfoo.com/
 - http://jlongster.com/archive
