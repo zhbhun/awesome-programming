@@ -58,3 +58,7 @@ ps：大部分的程序猿都没有想过软件设计的美感。
 - [Christer Kaitila](https://mcfunkypants.com/): Game Developer
 - [Andrzej Mazur](https://end3r.com/): HTML5 Game Developer | JavaScript Programmer
 - [Addy Osmani](https://addyosmani.com): Engineering Manager at Google working on Chrome
+
+---
+
+> 每个工程师都应该构建一个语言知识结构。
