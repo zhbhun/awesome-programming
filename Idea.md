@@ -63,3 +63,19 @@
 
 - [themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp)
 - [sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif 
+
+## 其他
+
+### Github
+
+    - API
+
+        - [GitHub API V3](https://developer.github.com/v3/)
+        - [github-trending-api](https://github.com/huchenme/github-trending-api)
+
+    - 参考
+
+        - 小程序
+
+            - [Gitter](https://github.com/huangjianke/Gitter)
+            - [GitHub-Top](https://github.com/renyuzhuo/GitHub-Top)
