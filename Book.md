@@ -35,9 +35,33 @@
 - https://github.com/zhongyp/mybook
 - https://github.com/fuhmmin/it-ebooks-cn
 
-## 电子书
+## 资源 
+
+### 电子书
 
 - [推荐几个电子书下载网站](https://zhuanlan.zhihu.com/p/33073008)
 - [15个高质量免费的电子书下载网站（更新版）](https://zhuanlan.zhihu.com/p/35051290)
 - [恩京的书房](https://www.enjing.com/)
 - [书伴](https://bookfere.com/)
+
+## 书单
+
+- [《你最庆幸自己读过什么书?》](https://www.zhihu.com/question/62306995)
+
+    - 你最庆幸自己读过什么书? - 铁木君的回答 - 知乎
+https://www.zhihu.com/question/62306995/answer/1017216394
+    - 你最庆幸自己读过什么书? - MO2R的回答 - 知乎
+https://www.zhihu.com/question/62306995/answer/969534363
+    - 你最庆幸自己读过什么书? - 鼹鼠的土豆的回答 - 知乎
+https://www.zhihu.com/question/62306995/answer/1070784213
+    - 你最庆幸自己读过什么书? - 麦卡特妮的回答 - 知乎
+https://www.zhihu.com/question/62306995/answer/967223791
+    - 你最庆幸自己读过什么书? - 闲庭落的回答 - 知乎
+https://www.zhihu.com/question/62306995/answer/919336152
+    - 你最庆幸自己读过什么书? - 荼蘼花了我无缘的回答 - 知乎
+https://www.zhihu.com/question/62306995/answer/981263337
+    - 你最庆幸自己读过什么书? - 爱读书的鲸鱼的回答 - 知乎
+https://www.zhihu.com/question/62306995/answer/861386285
+    - 你最庆幸自己读过什么书? - 君佳的回答 - 知乎
+https://www.zhihu.com/question/62306995/answer/1035082624
+
