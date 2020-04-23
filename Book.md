@@ -43,6 +43,7 @@
 - [15个高质量免费的电子书下载网站（更新版）](https://zhuanlan.zhihu.com/p/35051290)
 - [恩京的书房](https://www.enjing.com/)
 - [书伴](https://bookfere.com/)
+- [IT 熊猫](https://www.itpanda.net/book/)
 
 ## 书单
 
