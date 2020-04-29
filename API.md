@@ -26,6 +26,10 @@
 
 - https://pravatar.cc/
 
+## 图片
+
+- https://dummyimage.com/
+
 ## Translation
 
 - [Google Translation](https://cloud.google.com/translate/)
