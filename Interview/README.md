@@ -82,6 +82,7 @@
 ## 简历
 
 - [「推荐」前端新手如何做简历](https://zhuanlan.zhihu.com/p/23105699)
+- [geekcompany/DeerResume](https://github.com/geekcompany/DeerResume)
 
 ## 经验
 
