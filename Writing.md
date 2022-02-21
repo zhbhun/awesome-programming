@@ -39,6 +39,23 @@
 
 - [关于消息推送的思考：是什么？为什么？怎么做？](https://www.yunyingpai.com/app/459645.html)
 
+## 案例
+
+- [Web Development for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/)
+
+    每个课程包括：
+
+    1. 随意草稿
+    2. 可选的补充视频
+    3. 课前热身测验
+    4. 书面教材
+    5. 对于基于项目的经验教训，一步一步指导如何建立项目
+    6. 知识检查
+    7. 一个挑战
+    8. 补充阅读
+    9. 其他教程
+    10. 课后测验
+
 ---
 
 - [程序员怎样才能写出一篇好的博客或者技术文章？](https://www.zhihu.com/question/40716838)
