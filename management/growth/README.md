@@ -1,5 +1,8 @@
-程序员人生
-========
+# 成长
+
+
+---
+
 
 - *[What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)*
 - [怎么在编程中找到快乐，并得到持久的动力？](https://www.zhihu.com/question/339068307/answer/849583723)
@@ -62,3 +65,10 @@ ps：大部分的程序猿都没有想过软件设计的美感。
 ---
 
 > 每个工程师都应该构建一个语言知识结构。
+
+---
+
+- [天天写业务代码的程序员，怎么成为技术大牛，开始写技术代码？](https://www.zhihu.com/question/39430220)
+- [天天写业务代码，如何成为技术大牛？](https://www.runoob.com/w3cnote/how-to-became-tech-giant.html)
+
+---
