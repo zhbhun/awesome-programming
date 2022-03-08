@@ -79,3 +79,7 @@
 
             - [Gitter](https://github.com/huangjianke/Gitter)
             - [GitHub-Top](https://github.com/renyuzhuo/GitHub-Top)
+
+---
+
+- [learn-anything](https://github.com/learn-anything/learn-anything) 中文版
