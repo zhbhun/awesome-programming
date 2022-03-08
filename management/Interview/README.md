@@ -84,6 +84,7 @@
 
 - [「推荐」前端新手如何做简历](https://zhuanlan.zhihu.com/p/23105699)
 - [geekcompany/DeerResume](https://github.com/geekcompany/DeerResume)
+- [Standard Resume](https://standardresume.co/?ref=usniemvuilaptrinh) - A web application to help create beautiful resume/cv for designers, developers.
 
 ## 经验
 
