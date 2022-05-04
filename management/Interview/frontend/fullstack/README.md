@@ -1,1 +1,0 @@
-- [菜鸟网络前端全栈化之路](http://www.infoq.com/cn/articles/cainiao-frontend-full-stack)
