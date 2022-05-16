@@ -54,6 +54,7 @@
 - https://github.com/Pines-Cheng/share/tree/master/books
 - https://github.com/zhongyp/mybook
 - https://github.com/fuhmmin/it-ebooks-cn
+- https://github.com/mynane/PDF
 
 ## 资源 
 
