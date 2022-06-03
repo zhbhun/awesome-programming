@@ -88,3 +88,13 @@
     实现一个中文版本
 
 - 参照 [UI Play Book](https://uiplaybook.dev/) 和 [这个控件叫什么](https://www.zhihu.com/column/c_87416856) 实现一个组件规范文档
+
+---
+
+- [app-ideas](https://github.com/florinpop17/app-ideas) - It has a list of almost 80 web app ideas ranging from beginner level to expert level, the project is no longer maintained but you also check out the open issues/pull requests for more app ideas!
+- [A list of sample Web App Ideas](https://flaviocopes.com/sample-app-ideas/) - It has a list of simple app ideas ranging from beginner to intermediate, check it out.
+- [Frontend Mentor Challenges ](https://www.frontendmentor.io/challenges) - Frontend Mentor has a lot of free challenges available for beginners to experts which you can build as projects.
+- [Build Amazing Projects](https://codedamn.com/projects) - A library of different projects to make ranging from easy to hard
+- [App Ideas by JSBeginners ](https://jsbeginners.com/javascript-projects-for-beginners/) - It has a list of 100+ simple JavaScript ideas for beginners only and it's well structured.
+- [App Ideas](https://www.reddit.com/r/AppIdeas/) - This is a subreddit dedicated to posting different app ideas ranging from beginner to expert, scroll through the posts, you might just find your next app idea there!
+ 
