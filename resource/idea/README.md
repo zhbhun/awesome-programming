@@ -98,3 +98,4 @@
 - [App Ideas by JSBeginners ](https://jsbeginners.com/javascript-projects-for-beginners/) - It has a list of 100+ simple JavaScript ideas for beginners only and it's well structured.
 - [App Ideas](https://www.reddit.com/r/AppIdeas/) - This is a subreddit dedicated to posting different app ideas ranging from beginner to expert, scroll through the posts, you might just find your next app idea there!
 - https://andreacarrara.github.io/game-of-life/
+- [37 App Ideas for Bootcamp Students & Code Newbies](https://dev.to/sylwiavargas/33-app-ideas-for-bootcamp-students-code-newbies-3n28)
