@@ -12,3 +12,4 @@
     - 像素风：https://ai.meitu.com/algorithm/factory/172?t=1659062170634
 
 - https://pravatar.cc/
+- https://github.com/williamyang1991/DualStyleGAN
