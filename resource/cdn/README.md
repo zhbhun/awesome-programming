@@ -1,0 +1,2 @@
+- [jsdelivr](https://www.jsdelivr.com/)
+- [cdnjs](https://cdnjs.com/)
