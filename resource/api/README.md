@@ -30,6 +30,10 @@
 
 - https://dummyimage.com/
 
+## 视频
+
+- [YouTube.js](https://github.com/LuanRT/YouTube.js) - full-featured wrapper around YouTube's private API — reverse engineering InnerTube
+
 ## 金融
 
 - [yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
