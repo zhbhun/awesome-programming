@@ -8,6 +8,10 @@
 
     ps：可以作为自己的素材库
 
+- [Pixel Birds (and Other Animals)](https://kottke.org/22/03/pixel-birds-and-other-animals)
+
+    一个日本艺术家贴出了，他绘制的大量像素动物，非常有趣。
+
 ## 音乐
 
 - [死前必听的 1001 张专辑](https://1001albumsgenerator.com/)
@@ -66,6 +70,10 @@
 
     这网站是一个无限的 3D 美术馆。每件艺术品都是来自 Reddit 的 r/Art 频道，就是网站加载太慢了。目前这个房间里有 180 多万件艺术品。使用键盘的 WASD 按键就可以像打游戏一样走路。就能看到各种艺术品。这个画面让我想起来七龙珠里的修炼场所：时间与精神之屋。在那里过一年只相当于外界中的一天。另外，这是一个开源项目。
 
+- [treevis](https://treevis.net/#Li2020a)
+
+    这个网站收集了300种数据可视化案例，可以当作自己选择可视化形式时的灵感。
+
 ## 笔记
 
 - [GitJournal](https://github.com/GitJournal/GitJournal)
@@ -81,6 +89,12 @@
     Discover cool JavaScript packages and releases
 
     ps：考虑国内实现一个版本
+
+## 教学
+
+- [oPhysics](https://ophysics.com/index.html)
+
+    这个网站收集可以网页交互的物理学演示，有几十个作品。实时调节参数，就能看到结果。
 
 ## 头像生成
 
@@ -100,9 +114,3 @@
 - [卡通猫生成器](https://uchinoko-maker.jp/)
 
     一个网页小工具，可以生成卡通猫图片，猫的每个部分都可以定制。
-
-## 像素风
-
-- [Pixel Birds (and Other Animals)](https://kottke.org/22/03/pixel-birds-and-other-animals)
-
-    一个日本艺术家贴出了，他绘制的大量像素动物，非常有趣。
