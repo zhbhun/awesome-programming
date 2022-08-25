@@ -66,6 +66,22 @@
 
     这网站是一个无限的 3D 美术馆。每件艺术品都是来自 Reddit 的 r/Art 频道，就是网站加载太慢了。目前这个房间里有 180 多万件艺术品。使用键盘的 WASD 按键就可以像打游戏一样走路。就能看到各种艺术品。这个画面让我想起来七龙珠里的修炼场所：时间与精神之屋。在那里过一年只相当于外界中的一天。另外，这是一个开源项目。
 
+## 笔记
+
+- [GitJournal](https://github.com/GitJournal/GitJournal)
+
+    一个手机的笔记 App，支持用 Markdown 做笔记，推送到远程 Git 仓库。它的安卓 App 是免费的，iOS App 是收费的。
+
+    ps：可以借鉴参考实现一个 GitTodo
+
+## 搜索
+
+- [OpenBase](https://openbase.com/)
+
+    Discover cool JavaScript packages and releases
+
+    ps：考虑国内实现一个版本
+
 ## 头像生成
 
 - https://www.v1tx.com/post/best-avatar-generator/
@@ -84,3 +100,9 @@
 - [卡通猫生成器](https://uchinoko-maker.jp/)
 
     一个网页小工具，可以生成卡通猫图片，猫的每个部分都可以定制。
+
+## 像素风
+
+- [Pixel Birds (and Other Animals)](https://kottke.org/22/03/pixel-birds-and-other-animals)
+
+    一个日本艺术家贴出了，他绘制的大量像素动物，非常有趣。
