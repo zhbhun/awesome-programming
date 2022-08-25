@@ -65,3 +65,22 @@
 - [The Infinite Gallery](https://gallery.nowaythis.works/)
 
     这网站是一个无限的 3D 美术馆。每件艺术品都是来自 Reddit 的 r/Art 频道，就是网站加载太慢了。目前这个房间里有 180 多万件艺术品。使用键盘的 WASD 按键就可以像打游戏一样走路。就能看到各种艺术品。这个画面让我想起来七龙珠里的修炼场所：时间与精神之屋。在那里过一年只相当于外界中的一天。另外，这是一个开源项目。
+
+## 头像生成
+
+- https://www.v1tx.com/post/best-avatar-generator/
+- https://avamake.com/
+- https://vue-color-avatar.vercel.app/
+- https://multiavatar.com/
+- meitu
+
+    - ai 换脸：https://h5.mr.meitu.com/public/batman/#/home?path=3J9hDrH0FU4TV6M7pbasa6KiyJjSRJre&test=1
+    - 绘画机器人：https://ai.meitu.com/algorithm/generateImages/AICartoonStyle1?t=1659062128292
+    - 动漫化身：https://ai.meitu.com/algorithm/generateImages/emojMaterial?t=1659062150091
+    - 像素风：https://ai.meitu.com/algorithm/factory/172?t=1659062170634
+
+- https://pravatar.cc/
+- https://github.com/williamyang1991/DualStyleGAN
+- [卡通猫生成器](https://uchinoko-maker.jp/)
+
+    一个网页小工具，可以生成卡通猫图片，猫的每个部分都可以定制。
