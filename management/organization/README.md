@@ -1,0 +1,1 @@
+- [闲鱼宗心：这一年，我对终端组织与技术架构的思考](https://mp.weixin.qq.com/s/ZO40uAkH0jCXqVO3bBZ6YQ)
