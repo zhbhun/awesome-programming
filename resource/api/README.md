@@ -2,7 +2,7 @@
 ========
 
 - https://any-api.com/
-- https://github.com/toddmotto/public-apis
+- https://github.com/toddmotto/public-apis - A collective list of free APIs
 - https://apilist.fun/
 - [50 Most Useful APIs for Developers](https://www.computersciencezone.org/50-most-useful-apis-for-developers/)
 - https://github.com/abhishekbanthia/Public-APIs
