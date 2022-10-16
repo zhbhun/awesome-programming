@@ -1,0 +1,1 @@
+- [STAR法则](https://baike.baidu.com/item/STAR%E6%B3%95%E5%88%99/9056070)
