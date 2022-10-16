@@ -1,0 +1,1 @@
+- [5WHY分析法：一个问题分析与解决的工具（案例）](https://zhuanlan.zhihu.com/p/51697679)
