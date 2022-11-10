@@ -7,6 +7,7 @@
 - [activecampaign](https://www.activecampaign.com/)
 - [iconnect](https://www.icontact.com/)
 - [stampready](https://www.stampready.net/)
+- [stripo](https://stripo.email/) - Meet Stripo — an intuitive and simple yet flexible email template creator. Speed up production. Test and export emails to any ESPs. Drag and drop & HTML editors.
 
 ## 邮件编辑
 
