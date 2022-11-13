@@ -5,3 +5,4 @@
 ## 视频剪辑
 
 - [capcut](https://www.capcut.cn/) - 在线审片更流畅 · 素材共享，团队创作更轻松 · 支持多设备查看
+- [autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
