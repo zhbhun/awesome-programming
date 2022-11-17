@@ -15,4 +15,5 @@
 
 ## 综合
 
+- [Picsart](https://picsart.com/) - Modern creators know that pace rivals perfection. Tools need to be fast yet limitless. To design with immediacy and relevancy at the speed of culture. To design the now.
 - [PhotoRoom](https://www.photoroom.com/) - Create professional designs for free with our all-in-one creative photo editing platform.
