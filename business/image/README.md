@@ -10,8 +10,9 @@
 
 - [stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Stable Diffusion is a state of the art text-to-image model that generates images from text.
 - [AI Art Generator](https://creator.nightcafe.studio/) - Create amazing artworks using the power of Artificial Intelligence.
-- [novelai](https://novelai.net/)
+- [Novel AI](https://novelai.net/)
 - [Alpha 造图](https://www.iplaysoft.com/alpha-zaotu.html)
+- [意间 AI 绘画](http://yjai.ai-galaxy.com/)
 
 ## 综合
 
