@@ -18,6 +18,10 @@
 - [Charl-E](https://www.charl-e.com/) - CHARL-E packages Stable Diffusion into a simple app. No complex setup, dependencies, or internet required — just download and say what you want to see.
 - [imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
 
+素材
+
+- [Lexica](https://lexica.art/?)
+
 文献
 
 - [State of AI Report 2022](https://www.stateof.ai/)
