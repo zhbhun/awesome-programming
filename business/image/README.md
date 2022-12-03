@@ -6,14 +6,6 @@
 
 - [relight](https://clipdrop.co/relight) - Relight your photos & drawings in seconds.
 
-## 文字转图片
-
-- [stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) - Stable Diffusion is a state of the art text-to-image model that generates images from text.
-- [AI Art Generator](https://creator.nightcafe.studio/) - Create amazing artworks using the power of Artificial Intelligence.
-- [Novel AI](https://novelai.net/)
-- [Alpha 造图](https://www.iplaysoft.com/alpha-zaotu.html)
-- [意间 AI 绘画](http://yjai.ai-galaxy.com/)
-
 ## 平面设计
 
 - [Canva](https://www.canva.com/)
