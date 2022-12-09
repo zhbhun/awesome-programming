@@ -14,7 +14,9 @@
     - [nitrosocke/Arcane-Diffusion](https://huggingface.co/nitrosocke/Arcane-Diffusion) - This is the fine-tuned Stable Diffusion model trained on images from the TV Show Arcane. 
     - [dallinmackay/Tron-Legacy-diffusion](https://huggingface.co/dallinmackay/Tron-Legacy-diffusion) - This is a fine-tuned Stable Diffusion model (based on v1.5) trained on screenshots from the film Tron.
     - [nitrosocke/mo-di-diffusion](https://huggingface.co/nitrosocke/mo-di-diffusion) - This is the fine-tuned Stable Diffusion model trained on screenshots from a popular animation studio.
+    - [nitrosocke/redshift-diffusion](https://huggingface.co/nitrosocke/redshift-diffusion) - This is the fine-tuned Stable Diffusion model trained on high resolution 3D artworks.
     - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
+    - [Envvi/Inkpunk-Diffusion](https://huggingface.co/Envvi/Inkpunk-Diffusion) - Finetuned Stable Diffusion model trained on dreambooth. Vaguely inspired by Gorillaz, FLCL, and Yoji Shinkawa. Use nvinkpunk in your prompts.
 
 - Disco Diffusion
 
