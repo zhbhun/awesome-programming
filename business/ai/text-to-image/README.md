@@ -95,6 +95,11 @@
 
 ...
 
+## 示例
+
+- a man with a blue shirt and a beard looks at the camera with a serious look on his face, (1girl:0.980), (blue_eyes:0.856), (forehead:0.805), (gradient:0.767), (gradient_background:0.736), (grey_background:0.777), (lips:0.843), (looking_at_viewer:0.734), (mole:0.933), (nose:0.770), (realistic:0.981), (solo:0.964), head portrait of man, fairy tale style background,  top lighting, perfect shadow, soft painting, reduce saturation, leaning towards watercolor, art by hidari and krenz cushart and wenjun lin and akihiko yoshida
+- a man with glasses and a white shirt is looking at the camera with a serious look on his face, (3d:0.821), (black_hair:0.789), (blurry:1.000), (blurry_background:1.000), (blurry_foreground:0.993), (depth_of_field:1.000), (glasses:0.991), (green_eyes:0.872), (looking_at_viewer:0.743), (photo_\(medium\):0.944), (photo_inset:0.792), (realistic:0.919), (reference_inset:0.792), (solo:0.853), head portrait of man, fairy tale style background,  top lighting, perfect shadow, soft painting, reduce saturation, leaning towards watercolor, art by hidari and krenz cushart and wenjun lin and akihiko yoshida
+
 ## 文献
 
 - [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等

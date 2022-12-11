@@ -55,6 +55,7 @@
 - https://github.com/zhongyp/mybook
 - https://github.com/fuhmmin/it-ebooks-cn
 - https://github.com/mynane/PDF
+- [Kensuke-Hinata/statistic](https://github.com/Kensuke-Hinata/statistic) - collecting books, papers and docs.
 
 ## 资源 
 
