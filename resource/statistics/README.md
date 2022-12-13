@@ -14,3 +14,7 @@
 ## 分辨率
 
 - http://iosres.com/
+
+## 移动互联网
+
+- [data.ai](https://www.data.ai/cn/)
