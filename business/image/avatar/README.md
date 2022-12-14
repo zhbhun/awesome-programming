@@ -1,3 +1,8 @@
+- [lensa - Magic Avatar](https://prisma-ai.com/lensa)
+- [Dawn - AI Avatars](https://play.google.com/store/apps/details?id=com.bendingspoons.dawn.ai&hl=en_SG&gl=US)
+- [Profile Picture](https://www.profilepicture.ai/)
+- [starryai](https://starryai.com/starrytars)
+
 ## [alter](https://github.com/facemoji)
 
 - [alter-core](https://github.com/zhbhun/alter-core) - Realtime 3D avatar system and cross-platform rendering engine built from scratch for web3 interoperability and the open metaverse.
