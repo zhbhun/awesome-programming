@@ -63,6 +63,9 @@
 - [Imagen](https://imagen.research.google/)
 - [百度·文心一格](https://yige.baidu.com/)
 - [Draft](https://draft.art/)
+- [昆仑万维](https://www.kunlun.com/)
+
+    - [又一巨头宣布入局AIGC，一口气开源数个模型，还道出了它的变现之道](https://mp.weixin.qq.com/s/HZjxDhaMqqgM92puoedJvg)
 
 ### 算法
 
