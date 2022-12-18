@@ -83,6 +83,10 @@
 - [imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
 - [滴墨社区 - AI绘画](https://www.domo.cool/introduction)
 
+### 提示词
+
+- [PromptBase](https://promptbase.com/) - Find top prompts, produce better results, save on API costs, sell your own prompts.
+
 ### 素材
 
 - [Lexica](https://lexica.art/?)
