@@ -1,4 +1,4 @@
-![aitc.jpeg](./aitc.jpeg)
+![aigc.jpeg](./aigc.jpeg)
 
 ## 图片
 
