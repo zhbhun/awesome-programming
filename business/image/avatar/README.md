@@ -2,6 +2,7 @@
 - [Dawn - AI Avatars](https://play.google.com/store/apps/details?id=com.bendingspoons.dawn.ai&hl=en_SG&gl=US)
 - [Profile Picture](https://www.profilepicture.ai/)
 - [starryai](https://starryai.com/starrytars)
+- [Bunny AI](https://bunny.net/blog/introducing-bunny-optimizer-ai-a-new-way-of-creating-content/)
 
 ## [alter](https://github.com/facemoji)
 
