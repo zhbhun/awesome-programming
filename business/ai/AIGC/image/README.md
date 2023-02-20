@@ -8,6 +8,7 @@
 - Midjourney​
 - Stable Diffusion
 
+    - [ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models
     - [Linaqruf/anything-v3.0](https://huggingface.co/Linaqruf/anything-v3.0) - This model is intended to produce high-quality, highly detailed anime style with just a few prompts. Like other anime-style Stable Diffusion models, it also supports danbooru tags to generate images.
     - [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5) - Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input. F
     - [stabilityai/stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) - This model card focuses on the model associated with the Stable Diffusion v2 model.
