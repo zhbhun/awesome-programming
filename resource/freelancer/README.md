@@ -34,6 +34,14 @@
     - [fiverr](https://www.fiverr.com/)
     - [itch.io](https://itch.io/): itch.io is a simple way to find and share indie games online for free.
 
+## 收费
+
+- [个人开发者如何进行海外收款？](https://v2ex.com/t/801035)
+- [paddle](https://www.paddle.com/)
+- [wise](https://wise.com/gb/pricing/)
+- [paybase](https://paybase.cn/)
+- [gumroad](https://gumroad.com/)
+
 ## 参考
 
 - [2017年最受欢迎的10个编程挑战网站](http://geek.csdn.net/news/detail/236954)
