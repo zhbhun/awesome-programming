@@ -107,3 +107,6 @@
 - [程序员怎样才能写出一篇好的博客或者技术文章](https://cloud.tencent.com/developer/article/1191547)
 - [如何写文章 - wiki how](https://zh.wikihow.com/%E5%86%99%E6%96%87%E7%AB%A0)
 - [中文技术文档的写作规范 - 阮一峰](https://www.ruanyifeng.com/blog/2016/10/document_style_guide.html)
+- [Harvard Writing Project](https://writingproject.fas.harvard.edu/pages/writing-guides)
+
+    哈佛写作项目（The Harvard Writing Project）提供的人文社科英文写作指南，旨在通过为学生提供实用的写作建议、指南和案例来鼓励他们更好地写作。
