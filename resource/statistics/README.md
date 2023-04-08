@@ -4,6 +4,9 @@
 - https://mta.qq.com/mta/data/device
 - https://data.apteligent.com/research
 - http://gs.statcounter.com/
+- [OSSInsight](https://ossinsight.io)
+
+    这个是一个用 AI 调取 SQL，制作成数据图表的工具。
 
 ## 手机
 
