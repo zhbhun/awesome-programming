@@ -37,11 +37,25 @@
 
 ## 收费
 
+- PayPay
+- Stripe
+- Paddle
+- LemonSqueezy
+- https://www.lemonsqueezy.com/
+- [境外收付工具lemonsqueezy使用指南](https://juejin.cn/post/7218916901593415736)
 - [个人开发者如何进行海外收款？](https://v2ex.com/t/801035)
 - [paddle](https://www.paddle.com/)
 - [wise](https://wise.com/gb/pricing/)
 - [paybase](https://paybase.cn/)
 - [gumroad](https://gumroad.com/)
+
+## 开发者
+
+- https://twitter.com/tangpanqing: https://v2ex.com/t/979474#reply79
+
+    - https://pagejet.app/
+    - https://qianmi.app/
+    - https://travelaroundtheworld.app/
 
 ## 参考
 
