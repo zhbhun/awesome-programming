@@ -37,6 +37,7 @@
 
 ## 收费
 
+- https://www.payoneer.com/
 - PayPay
 - Stripe
 - Paddle
