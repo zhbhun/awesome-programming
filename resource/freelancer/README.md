@@ -3,7 +3,7 @@
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表 -- 分享大家都在做什么
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
 
-## 网站
+## 平台
 
 - 国内
 
@@ -35,6 +35,10 @@
     - [fiverr](https://www.fiverr.com/)
     - [itch.io](https://itch.io/): itch.io is a simple way to find and share indie games online for free.
 
+## 社区
+
+- [出海去](https://chuhaiqu.club/)
+
 ## 收费
 
 - https://www.payoneer.com/
@@ -57,6 +61,11 @@
     - https://pagejet.app/
     - https://qianmi.app/
     - https://travelaroundtheworld.app/
+
+## 教程
+
+- [DecoHack - 独立开发者的灵感周刊](https://www.decohack.com/)
+- [独立开发者实践手册](https://wiki.decohack.com/)
 
 ## 参考
 
