@@ -54,6 +54,13 @@
 - [paybase](https://paybase.cn/)
 - [gumroad](https://gumroad.com/)
 
+---
+
+- [香港汇丰银行开户教程](https://blog.shuziyimin.org/1387)
+- [香港招商永隆银行开户教程](https://blog.shuziyimin.org/626)
+- [香港 ZA BANK （众安银行）开卡教程](https://blog.shuziyimin.org/1368)
+
+
 ## 开发者
 
 - https://twitter.com/tangpanqing: https://v2ex.com/t/979474#reply79
