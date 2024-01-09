@@ -1,0 +1,1 @@
+- https://boringcashcow.com/
