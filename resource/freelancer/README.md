@@ -73,6 +73,7 @@
 
 - [DecoHack - 独立开发者的灵感周刊](https://www.decohack.com/)
 - [独立开发者实践手册](https://wiki.decohack.com/)
+- [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
 
 ## 参考
 
