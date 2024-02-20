@@ -66,6 +66,7 @@
 - [恩京的书房](https://www.enjing.com/)
 - [书伴](https://bookfere.com/)
 - [IT 熊猫](https://www.itpanda.net/book/)
+- https://24hbook.com/
 
 ## 书单
 
