@@ -14,3 +14,4 @@
 - https://lokalise.com/
 - https://phrase.com/
 - https://crowdin.com/
+- https://app.i18nexus.com/
