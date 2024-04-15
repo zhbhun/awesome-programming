@@ -74,6 +74,7 @@
 - [DecoHack - 独立开发者的灵感周刊](https://www.decohack.com/)
 - [独立开发者实践手册](https://wiki.decohack.com/)
 - [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+- [我整理了一份独立开发者出海技术栈](https://zhuanlan.zhihu.com/p/683518142)
 
 ## 参考
 
