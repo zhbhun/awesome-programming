@@ -85,3 +85,4 @@
 - [35+ Best Freelance Websites For Hiring and Freelancing - Find Detailed Reviews of Popular and Niche Freelancer Websites](https://www.konsus.com/blog/best-freelance-websites/)
 - [Upwork Vs Toptal: The Best Freelancing Platforms](http://www.nextearning.com/2016/03/upwork-vs-toptal-best-freelancing-platforms.html)
 - [22 best freelance websites to find work in 2022](https://webflow.com/blog/freelance-websites)
+- [独立开发的 100 个思考](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5ODc5NjQyOQ==&action=getalbum&album_id=3188138854582337550&scene=173&subscene=&sessionid=svr_16e5f30a104&enterid=1707054842&from_msgid=2649888866&from_itemidx=1&count=3&nolastread=1&scene=21#wechat_redirect)
