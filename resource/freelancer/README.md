@@ -98,6 +98,10 @@
     - https://qianmi.app/
     - https://travelaroundtheworld.app/
 
+## 案例
+
+- [硬地骇客 - 两个月 $12000 ARR 实践之路](https://book.hardhacker.com/review/learn)
+
 ## 教程
 
 - [DecoHack - 独立开发者的灵感周刊](https://www.decohack.com/)
