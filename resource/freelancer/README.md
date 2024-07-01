@@ -108,6 +108,7 @@
 - [独立开发者实践手册](https://wiki.decohack.com/)
 - [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
 - [我整理了一份独立开发者出海技术栈](https://zhuanlan.zhihu.com/p/683518142)
+- [awesome-startup-posting](https://github.com/zgimszhd61/awesome-startup-posting?tab=readme-ov-file) - 收录一些有趣的创业故事和创业创意
 
 ## 参考
 
