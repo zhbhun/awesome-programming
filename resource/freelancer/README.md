@@ -39,7 +39,11 @@
 
 - [出海去](https://chuhaiqu.club/)
 
-## 收费
+## 技术
+
+- [Just Free](https://www.justfree.io/)
+
+### 收费
 
 - https://www.payoneer.com/
 - PayPay
@@ -60,33 +64,33 @@
 - [香港招商永隆银行开户教程](https://blog.shuziyimin.org/626)
 - [香港 ZA BANK （众安银行）开卡教程](https://blog.shuziyimin.org/1368)
 
-## 登录
+### 登录
 
 - Supabase
 
-## 数据库
+### 数据库
 
 - Supabase
 - PlanetScale
 - Neon
 
-## 托管
+### 托管
 
 - Vercel
 - Zeabur
 - Netflix
 
-## 统计
+### 统计
 
 - Clarity: 微软出品的站点热力图和用户行为录制重放工具。Clarity 能很好的帮助开发者分析用户行为，发现产品的交互问题和错误。并且它是完全免费的，谢谢微软爸爸。此外 Clarity 还可以 connect 你的 Google Analytics ，在呈现 GA 数据的同时，还能筛选出对应流量背后的用户会话回放。
 - Google Analytics: Google 出品的流量分析工具
 
-## 监控
+### 监控
 
 - BetterStack: 监控平台，可以实时监视应用接口或页面，收集日志，并根据配置的规则进行告警。可以非常方便的和 Vercel 整合，从 Vercel 获取日志。不过 BetterStack 的免费用量较少。
 - Sentry: 前端监控平台，主要用于监控错误信息，并配套有堆栈、操作回放、性能数据等的监控。可以非常方便的和很多前端框架，包括 NextJS 整合。Sentry 除了错误信息外的免费用量较少，但错误信息的免费用量完全够用。
 
-## 反馈
+### 反馈
 
 - Tallyform: 体验优秀、简单易用的表单工具。绝大多数功能免费且没有用量限制，用作反馈收集和 bug 报告等场景都非常方便。
 
