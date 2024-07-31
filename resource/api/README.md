@@ -15,6 +15,7 @@
 - [最佳搜索引擎结果页面 API](https://www.dailiproxy.com/serp-api/)
 - [建造您自己的 SERP(搜索结果页) API¶](https://blog.qiyutech.tech/202107/20_serp_api/)
 - [搜索引擎 API 2023年15个最佳搜索引擎结果页面 API](https://www.dailiproxy.com/serp-api/)
+- [serper](https://serper.dev/) - Experience unparalleled speed with our industry-leading SERP API, delivering lightning-fast Google search results in 1-2 seconds, at an unbeatable price.
 
 ## JSON
 
