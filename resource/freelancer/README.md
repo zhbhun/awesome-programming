@@ -105,6 +105,7 @@
 ## 案例
 
 - [硬地骇客 - 两个月 $12000 ARR 实践之路](https://book.hardhacker.com/review/learn)
+- [杂谈：收录一些有趣的创业故事和创业创意](https://github.com/zgimszhd61/awesome-startup-posting?tab=readme-ov-file)
 
 ## 教程
 
