@@ -43,6 +43,11 @@
 
 - [Just Free](https://www.justfree.io/)
 
+## 广告
+
+- [谈谈Google AdSense以外的国外优秀广告联盟](https://cloud.tencent.com/developer/article/2152088)
+- [2022 年最佳 10 种 AdSense 替代品](https://partnerkin.com/zh/blog/articles/best-adsense-alternatives)
+
 ### 收费
 
 - https://www.payoneer.com/
@@ -51,6 +56,7 @@
 - Paddle
 - LemonSqueezy
 - https://www.lemonsqueezy.com/
+- [珊瑚跨境](https://www.coralglobal.cn/zh/cg.html)
 - [境外收付工具lemonsqueezy使用指南](https://juejin.cn/post/7218916901593415736)
 - [个人开发者如何进行海外收款？](https://v2ex.com/t/801035)
 - [paddle](https://www.paddle.com/)
