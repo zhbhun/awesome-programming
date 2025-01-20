@@ -69,6 +69,11 @@
 - [香港汇丰银行开户教程](https://blog.shuziyimin.org/1387)
 - [香港招商永隆银行开户教程](https://blog.shuziyimin.org/626)
 - [香港 ZA BANK （众安银行）开卡教程](https://blog.shuziyimin.org/1368)
+- [我跑通了全球收付款的流程](https://mp.weixin.qq.com/s/y_XRFa8pzkgV-GqttSotqw)
+
+    - https://www.v2ex.com/t/1090728#reply18
+    - https://blog.axiaoxin.com/post/2024-summary/#2024-okr-%E5%9B%9E%E9%A1%BE
+    - https://www.v2ex.com/t/1099492#reply13
 
 ### 登录
 
