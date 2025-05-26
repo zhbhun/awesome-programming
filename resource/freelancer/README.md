@@ -50,25 +50,30 @@
 
 ### 收费
 
-- https://www.payoneer.com/
-- PayPay
-- Stripe
-- Paddle
-- LemonSqueezy
-- https://www.lemonsqueezy.com/
-- [珊瑚跨境](https://www.coralglobal.cn/zh/cg.html)
-- [境外收付工具lemonsqueezy使用指南](https://juejin.cn/post/7218916901593415736)
-- [个人开发者如何进行海外收款？](https://v2ex.com/t/801035)
-- [paddle](https://www.paddle.com/)
-- [wise](https://wise.com/gb/pricing/)
-- [paybase](https://paybase.cn/)
-- [gumroad](https://gumroad.com/)
+- 海外
+
+    - Stripe
+    - Braintree(PayPay)
+    - [paddle](https://www.paddle.com/)
+    - LemonSqueezy
+    - [payoneer](https://www.payoneer.com/)
+    - [paybase](https://paybase.cn/)
+    - [gumroad](https://gumroad.com/)
+    - [珊瑚跨境](https://www.coralglobal.cn/zh/cg.html)
+    - https://www.pingpongx.com/
+
+- 国内
+
+    - Ping++
+    - 连连支付
+    - 易宝支付
 
 ---
 
-- [香港汇丰银行开户教程](https://blog.shuziyimin.org/1387)
-- [香港招商永隆银行开户教程](https://blog.shuziyimin.org/626)
-- [香港 ZA BANK （众安银行）开卡教程](https://blog.shuziyimin.org/1368)
+- [境外收付工具lemonsqueezy使用指南](https://juejin.cn/post/7218916901593415736)
+- [个人开发者如何进行海外收款？](https://v2ex.com/t/801035)
+- [第三方海外安全收款](https://mp.weixin.qq.com/s/Nhw0j9ypx2zDFklMJJa2Ag)
+- [手把手教你开通 stripe 支付，包含文字版和视频版](https://www.v2ex.com/t/1127759#reply26)
 - [我跑通了全球收付款的流程](https://mp.weixin.qq.com/s/y_XRFa8pzkgV-GqttSotqw)
 
     - https://www.v2ex.com/t/1090728#reply18
